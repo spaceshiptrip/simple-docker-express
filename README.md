@@ -1,4 +1,7 @@
 # Simple Docker Express Application
+
+NOTE: This needs updating
+
 This is a simple example of a dockerized express web application.  It returns a message when the root location is hit.  
 
 ## Install
@@ -76,3 +79,4 @@ That will get you in the container shell and you can run the app manually to see
 ```
 # docker run simple
 ```
+
