@@ -80,3 +80,6 @@ That will get you in the container shell and you can run the app manually to see
 # docker run simple
 ```
 
+
+## ADDED this comment for zsh
+
