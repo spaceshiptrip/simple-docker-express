@@ -69,6 +69,13 @@ connect().use(serveStatic(__dirname)).listen(port, function(){
 });
 ```
 This serves the local directory 
+Be sure your `package.json` contains this dependency:
+```
+  "dependencies": {
+        "connect": "3.x"
+  },
+```
+  
 
 h1. DEBUG
 ```
